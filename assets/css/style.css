@@ -16,6 +16,7 @@ body {
 a {
   color: #e43c5c;
   text-decoration: none;
+  font-style: normal;
 }
 
 a:hover {
@@ -1367,7 +1368,10 @@ section {
 .blog {
   padding: 40px 0 20px 0;
 }
-
+#blogsub{
+    font-size: 13px;
+    width: 50%;
+}
 .blog .entry {
   padding: 30px;
   margin-bottom: 60px;
